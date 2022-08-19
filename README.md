@@ -1,5 +1,5 @@
 # vim-bet
-vim plugin for add character between visual selected text
+Vim plugin for add character between visual selected text.
 
 ## Usage
 ``` 

@@ -1,4 +1,5 @@
-function! vim-bet#Execute() abort
+
+function! vim-bet#execute() abort
   let v_start = getpos("v")
   let start_r = v_start[1]
   let start_c = v_start[2]
